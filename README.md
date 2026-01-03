@@ -45,6 +45,10 @@ In the proposed DCGAN architecture, the generator and discriminator are built us
   <img src="images/DCGAN.png" alt="Alt text" width="400"/>
 </p>
 
+### SN-GAN
+
+With the desire to stabilize the training of the discriminator Spectal Normalization shows the
+property that Lipschitz constant is the only hyper-parameter to be tuned.For this work was created a hybrid approach called SN-DCGAN, where the weights of the Discriminator were normalized via Spectral Normalization.
 
 
 </div>
