@@ -1,7 +1,7 @@
-## Deep Learning for Image Analysis using CGAN, ACGAN, InfoGAN, DCGAN, SN-GAN.
+# Deep Learning for Image Analysis using CGAN, ACGAN, InfoGAN, DCGAN, SN-GAN.
 
 
-### Context
+## Context
 
 Fashion is one of the most dynamic industries, consisting of a multi-variable ecosystem that promotes self-expression and cultural representation to its users, costanly navigating a complex global
 market.This changing flux has pushed retailers to aim for low cost and flexible design productions with a speed implementation, where key strategies applied in the development of a line or a product have the potential to increase a brand profitability position. Heritage plays a crucial role in a brand’s identity, as it has the power to affect several generations and, consequently, profitability. The implementation of patterns
@@ -14,3 +14,14 @@ of overproduction.Current literature focuses largely on improving image generati
 
 Another variation of GAN’s relies in DCGAN, elucidated by [Radford et al. 2016] stabilizes the GAN training and improve image generation incorporing deep convolutional neural networks.[Miyato et al. 2018a] developed SN-GAN applying spectal normalization to stabilize the training of the discriminator in and preventing from becoming too powerful.The focus of this project is to investigate effective model implementations that can be leveraged
 by the fashion industry to generate high-quality vestment designs. Using the Fashion MNIST dataset, is proposed a benchmarking study of various models and architectures, with emphasis on baseline generative models such as CGAN, DCGAN, as well as their subsequent evolutions, following the stipulations of the original articles and from the book Generative Adversarial Networks with Python [Brownlee 2019].
+
+## Architecture
+## InfoGAN
+### CGAN
+### A-CGAN
+
+## DCGAN
+### DCGAN + Spectral Normalization(SAGAN)
+
+
+
